@@ -1,0 +1,3 @@
+This is UPDATE:1
+in this app these have static values for weather and temperature.
+DEV is process :))
